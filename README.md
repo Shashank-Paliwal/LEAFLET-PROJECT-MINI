@@ -4,4 +4,4 @@ Leaflet is an open source JavaScript library used to build web mapping applicati
 Leaflet is an open source javascript map alternate to Google maps and Map Box applications.
 
 
-[Locator using Leaflet](https://github.com/Shashank-Paliwal/LeafLet-Project/main/blog/locator.gif)
+[Locator using Leaflet](https://github.com/Shashank-Paliwal/LeafLet-Project/main/locator.gif)
